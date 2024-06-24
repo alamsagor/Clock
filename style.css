@@ -75,3 +75,8 @@
 #sec::after{
   content: 'SEC';
 }
+@media screen and (max-width:600px)
+{
+    
+
+}
